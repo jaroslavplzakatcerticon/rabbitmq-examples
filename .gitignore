@@ -1,0 +1,39 @@
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
+
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# PDT-specific
+.buildpath
+
+# IntelliJ
+*.iml
+.idea
+classes
+
+#maven build directories
+target
+
+# Python
+*__pycache__*
+*.iml
+
+#Requirement Tracer files
+reqs_metadata
+
